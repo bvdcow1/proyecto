@@ -1,0 +1,20 @@
+ion-content {
+    --background: #f7e7ce; /* Champán */
+  }
+
+  ion-content p {
+    color: #000000; /* Color de texto negro para los párrafos */
+  }
+
+  ion-menu {
+    ion-content {
+      color: #000000 !important; /* Color del texto negro */
+    }
+  }
+  
+
+  ion-button {
+    --background: #003366; /*Azul marino */
+    --color: #ffffff; /* Texto blanco */
+  }
+  
